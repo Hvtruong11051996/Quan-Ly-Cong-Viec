@@ -1,3 +1,3 @@
-# Quan-Ly-Cong-Viec
+Quản Lý Công Việc 
 
-Mini_Project trong 1 tuần với ReactJs
+Mini Project trong 1 tuần với ReactJs
